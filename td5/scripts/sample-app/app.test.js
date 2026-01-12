@@ -1,2 +1,2 @@
-expect(response.text).toBe('DevOps Labs!');
+expect(response.text).toBe('DevOps Labs!\n');
 
