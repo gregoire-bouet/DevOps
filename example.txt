@@ -1,2 +1,7 @@
 Hello, World!
 New line of text
+<<<<<<< HEAD
+=======
+Third line of text
+Third line of text
+>>>>>>> testing
